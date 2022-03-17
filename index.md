@@ -1,13 +1,14 @@
 [Bienvenida](Bienvenida.md)
 
 
-## Welcome to GitHub Pages
+horarios de atencion 8:00am a 15:00pm
+<form>
+  <label for"name">nombres:</label><br>
+  <inpnt type="text"id="name"name="name"walue="tus nombres""
+                                                            +
+                                                            
+                                                            
 
-You can use the [editor on GitHub](https://github.com/AutoMichi-github-io/AutoMichi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
