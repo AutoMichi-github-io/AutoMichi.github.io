@@ -15,16 +15,18 @@
   <label for="fname">First correo:</label><br>
   <input type="text" id="fname" correo="fname"><br><br>
   <input type="submit" value="Submit">
-</form>
 
   <form action="/action_page.php">
   <label for="fname">First telefono:</label><br>
   <input type="text" id="fname" telefono="fname"><br><br>
   <input type="submit" value="Submit">
-</form>
   
   <form action="/action_page.php">
   <label for="fname">First direccion:</label><br>
   <input type="text" id="fname" direccion="fname"><br><br>
+  <input type="submit" value="Submit
+                              
+<input type="text" id="lname" numero de productos="lname" value="Doe"><br><br>
   <input type="submit" value="Submit">
-</form>
+</form>  
+
