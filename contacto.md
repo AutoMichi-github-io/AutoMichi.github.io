@@ -30,3 +30,8 @@
   <input type="submit" value="Submit">
 </form>  
 
+<body>
+
+<object width="100%" height="500px" data="snippet.html"></object>
+ 
+</body>
