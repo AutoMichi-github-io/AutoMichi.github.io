@@ -3,7 +3,7 @@ desde su lanzamiento en 2005, el bugatti veyron ha sido considerado como un supe
 
 ![image](https://user-images.githubusercontent.com/100097825/159187114-91db0f24-1d7d-42c0-961c-82ba9395e8c7.png)
 
-##bugatti Chiron 
+## Bugatt Chiron
 El CHIRON es el superdeportivo de producción exclusivo, más rápido y más potente de la historia de BUGATTI. Su diseño sofisticado, su tecnología innovadora y su forma icónica orientada al desempeño lo convierten en una obra maestra única de arte, forma y técnica, que traspasa los límites más allá de la imaginación.
 BUGATTI debe su carácter distintivo a una familia de artistas e ingenieros, y siempre se ha esforzado por ofrecer lo extraordinario, lo inigualable, lo mejor. Cada elemento del CHIRON es una combinación de reminiscencia a su historia y la tecnología más innovadora. El resultado es una creación única de valor perdurable y un logro automotriz impresionante.
 
