@@ -1,16 +1,7 @@
 [Bienvenida](Bienvenida.md)
 
-
-horarios de atencion 8:00am a 15:00pm
-<form>
-  <label for"name">nombres:</label><br>
-  <inpnt type="text"id="name"name="name"walue="tus nombres""
-                                                            +
                                                             
-                                                            
-<form action="/action_page.php">
- <input type="submit" value="Submit">
-                                    
+                                                                                            
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
