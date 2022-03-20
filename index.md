@@ -1,6 +1,5 @@
 [Bienvenida](Bienvenida.md)
-[Proposito](AutoMichi.github.io)
-
+[Proposito](Proposito.md)
 
                              
                                                                                             
